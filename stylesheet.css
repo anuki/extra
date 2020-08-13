@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Extra font TRIAL';
+    src: url('Extrafont-BoldTRIAL.eot');
+    src: url('Extrafont-BoldTRIAL.eot?#iefix') format('embedded-opentype'),
+        url('Extrafont-BoldTRIAL.woff2') format('woff2'),
+        url('Extrafont-BoldTRIAL.woff') format('woff'),
+        url('Extrafont-BoldTRIAL.ttf') format('truetype'),
+        url('Extrafont-BoldTRIAL.svg#Extrafont-BoldTRIAL') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
